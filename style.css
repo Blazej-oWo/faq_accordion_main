@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;600;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: hsl(275, 100%, 97%);
+    font-family: work sans, Arial, sans-serif;
+}
+
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+
+}
+.picbgc{
+    background-image: url('assets/images/background-pattern-desktop.svg');
+    width: 100%;
+    height: 250px;
+}
+.accordion{
+    background-color: #fff;
+    width: 650px;
+    height: 650px;
+    margin:-150px auto;
+    border-radius: 15px;
+   
+}
+.accordion_container{
+    margin:110px 20px 0 20px;
+}
+
+p{
+    color:hsl(292, 16%, 49%);
+}
+.wrapper{
+    display: flex;
+}
+.wrapper img{
+ margin:30px 0px 10px 30px;
+}
+.wrapper h1 {
+    margin:30px 0px 10px 20px;
+    font-size: 50px;
+}
+
+h1,h2 {
+    color:hsl(292, 42%, 14%);
+}
+
+/* footer */
+.attribution {
+    margin-top: 30px;
+    font-size: 11px;
+    text-align: center;
+ }
+ 
+ .attribution a {
+    color: hsl(228, 45%, 44%);
+ }
+ 
