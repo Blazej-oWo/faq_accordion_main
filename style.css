@@ -50,6 +50,10 @@ p {
     margin:30px 0px 10px 20px;
     font-size: 50px;
 }
+.accord {
+    display: flex;
+   column-gap: 120px;
+}
 
 h1,h2 {
     color:hsl(292, 42%, 14%);
@@ -59,10 +63,10 @@ h2 {
     font-size: 16px;
     margin:10px 0px;
 }
-h2 img{
+.accord img{
     position: absolute;
     cursor: pointer;
-    margin:-5px 0 0 20px;
+    margin:5px 0 0 530px;
 
     
 }
